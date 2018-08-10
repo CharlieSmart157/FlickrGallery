@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlickrGallery</string>
+    <string name="no_items_text">There is no items to display</string>
+    <string name="row_title_text">Title</string>
+    <string name="row_date_text">12/12/2012</string>
+    <string name="row_description_text">Generic description</string>
+    <string name="row_author_text">Author\'s name</string>
+    <string name="search_text">Search</string>
+</resources>
